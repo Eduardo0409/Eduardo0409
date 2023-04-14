@@ -32,4 +32,8 @@
   <a href="https://www.linkedin.com/in/eduardo-caldas-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/Eduardo0409/Eduardo0409/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/Eduardo0409/Eduardo0409/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
