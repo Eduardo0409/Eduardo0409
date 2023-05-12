@@ -4,12 +4,14 @@
 </div>
 
 ##
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
-##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo0409)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo0409&show_icons=true&theme=radical)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo0409)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
